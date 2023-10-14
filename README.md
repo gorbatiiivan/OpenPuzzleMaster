@@ -33,8 +33,11 @@ OS - Windows 10/11, 32 or 64bit.
 # Portable mode
 Create a empty file with name "settings.ini" in main folder, and run the game.
 
-Ex: OpenPuzzleMaster.exe
-    settings.ini
+Ex: 
+
+OpenPuzzleMaster\OpenPuzzleMaster.exe
+
+OpenPuzzleMaster\settings.ini
 
 
 # Origin and history of the OpenPuzzleMaster project 
