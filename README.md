@@ -13,3 +13,28 @@ FEATURES you're bound to LOVE in Open Puzzle Master:
 - Create your own version of puzzle.
 - Changing backgrounds from file or default.
 - Saving all data to "User\AppData\Roaming" folder or make portable.
+
+# Screenshots
+
+![screenshot1](https://github.com/gorbatiiivan/OpenPuzzleMaster/assets/84850541/c163a32f-1c4d-46b8-97a3-1bbd19b8e96b)
+
+![screenshot2](https://github.com/gorbatiiivan/OpenPuzzleMaster/assets/84850541/e4ab2330-e96d-4bdd-a881-b53a9bface13)
+
+![screenshot3](https://github.com/gorbatiiivan/OpenPuzzleMaster/assets/84850541/c73ba1bf-89ee-46ad-a963-694a9f31ba4e)
+
+
+
+# System Requirements 
+OS - Windows 10/11, 32 or 64bit.
+
+
+# Translations
+English, Russian, Romanian.
+
+# Portable mode
+Create a blank file with name "settings.ini" in main folder, and run the game.
+Ex: OpenPuzzleMaster.exe
+    settings.ini
+
+
+# Donation
