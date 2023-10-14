@@ -12,7 +12,7 @@ FEATURES you're bound to LOVE in Open Puzzle Master:
 - You can simplify the game by selecting the elements that make up the puzzle frame.
 - Create your own version of puzzle.
 - Changing backgrounds from file or default.
-- Saving all data to "User\AppData\Roaming" folder or make portable.
+- Saving all data to "User\AppData\Roaming" folder or run portable.
 
 # Screenshots
 
@@ -32,7 +32,8 @@ OS - Windows 10/11, 32 or 64bit.
 English, Russian, Romanian.
 
 # Portable mode
-Create a blank file with name "settings.ini" in main folder, and run the game.
+Create a empty file with name "settings.ini" in main folder, and run the game.
+
 Ex: OpenPuzzleMaster.exe
     settings.ini
 
