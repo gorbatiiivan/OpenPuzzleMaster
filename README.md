@@ -5,6 +5,7 @@ Open Puzzle Master is a game where any image can become a puzzle.
 
 FEATURES you're bound to LOVE in Open Puzzle Master:
 - Create a puzzle with your own picture from PC or URL link.
+- Drag and drop image from explorer.
 - Saving the game.
 - Create puzzle up to 50 piece vertical or horizontal.
 - Many options for the puzzle.
@@ -36,3 +37,9 @@ Create a empty file with name "settings.ini" in main folder, and run the game.
 
 Ex: OpenPuzzleMaster.exe
     settings.ini
+
+
+# Origin and history of the OpenPuzzleMaster project 
+OpenPuzzleMaster started as a fork of the original SuperPuzzleMaster project.
+
+URL: https://github.com/stalkself/SuperPuzzleMaster
