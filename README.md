@@ -36,6 +36,3 @@ Create a empty file with name "settings.ini" in main folder, and run the game.
 
 Ex: OpenPuzzleMaster.exe
     settings.ini
-
-
-# Donation
