@@ -14,6 +14,7 @@ FEATURES you're bound to LOVE in Open Puzzle Master:
 - Create your own version of puzzle.
 - Changing backgrounds from file or default.
 - Saving all data to "User\AppData\Roaming" folder or run portable.
+- Support multiple languages English, Russian, Romanian.
 
 # Screenshots
 
@@ -28,9 +29,6 @@ FEATURES you're bound to LOVE in Open Puzzle Master:
 # System Requirements 
 OS - Windows 10/11, 32 or 64bit.
 
-
-# Translations
-English, Russian, Romanian.
 
 # Portable mode
 Create a empty file with name "settings.ini" in main folder, and run the game.
